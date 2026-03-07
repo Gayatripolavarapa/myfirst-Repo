@@ -4,3 +4,4 @@ Variables: Are used to how the data stored in the memory
  2. it should contain alphanumaric values
  3. it can also start with '_'
  4. should not utilize keywords
+ 5.it is case sencitive
