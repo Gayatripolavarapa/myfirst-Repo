@@ -1,0 +1,25 @@
+# condition:
+# conditional statements:
+'''
+types of conditional statements:
+1.if (simple)
+2.if else
+3.elif lader(else if)
+4.nested condtional statements
+5.match case
+6.terinary oparater
+
+
+print()
+yeild
+return
+'''
+'''
+input():string
+
+#Simple if
+
+'''
+ bill = int(input('Enter your bill Amount')
+ if bill>1000:
+ print('Food will be served')
